@@ -1,0 +1,1 @@
+# spring-openapi-3-spec-gen
